@@ -1,7 +1,6 @@
 /*
  * The code is based on Euclidean Algo to find H.C.F.
  */
-import java.lang.Math;
 public class HCF {
     public static int calculateGCD(int a, int b){
         int num1 = Math.max(a, b);
