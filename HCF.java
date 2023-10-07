@@ -3,7 +3,7 @@
  */
 import java.lang.Math;
 public class HCF {
-    static int calculateGCD(int a, int b){
+    public static int calculateGCD(int a, int b){
         int num1 = Math.max(a, b);
         int num2 = Math.min(a, b);
         int rem;
