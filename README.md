@@ -1,6 +1,6 @@
 # DSA-STARTER-PACK
 
-This repository provides simple and essential Data Structures and Algorithms (DSA) programs to help you get started. These programs cover fundamental concepts and serve as building blocks for your DSA journey. Explore and learn!
+This repository provides simple and essential Data Structures and Algorithms (DSA) programs to help you get started. These programs cover fundamental concepts and serve as building blocks for your DSA journey. Explore and learn
 
 ## Getting Started
 
